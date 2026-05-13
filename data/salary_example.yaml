@@ -1,0 +1,10 @@
+name: salary
+units: £
+values:
+  01-03-1994: 5000  # Paper round
+  01-08-2000: 10000 # McDonald's
+  01-06-2004: 15000 # Nag's Head
+  01-06-2010: 20000 # Tesco checkout
+  01-06-2015: 50000 # Tesco Manager
+  01-09-2021: 30000  # Waitrose checkout
+  01-09-2022: 60000  # Waitrose Manager
